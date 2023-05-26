@@ -1,0 +1,21 @@
+1) Escreva um programa que leia um número inteiro do teclado. Em seguida, o programa deve escrever frase "O número digitado foi: ", seguida do número lido e de uma quebra de linha.
+
+2) Escreva um programa que leia um número real do teclado. Em seguida, o programa deve escrever frase "O número digitado foi: ", seguida do número lido e de uma quebra de linha.
+
+3) Escreva um programa que leia uma cadeia de caracteres e escreva a cadeia de caracteres lida na tela, precedida pela frase "A cadeia digitada foi: ", seguido de uma quebra de linha.
+
+4) Escreva um programa que leia o nome de uma pessoa, sua altura e sua idade. Em seguida, escreva essas três informações na tela em três diferentes linhas, utilizando um único comando escreva. Repita o exercício, utilizando um comando escreva para cada informação, porém escrevendo em apenas uma linha na tela.
+
+5) Escreva um programa que leia dois valores reais e exiba sua soma e seu produto.
+
+6) Escreva um programa que leia dois valores reais e exiba o resultado da divisão do primeiro valor pelo segundo valor.
+
+7) Escreva um programa que leia três valores reais e exiba a média simples dos três valores.
+
+8) Escreva um programa que leia três valores reais, um peso (valor real) para cada um dos três valores lidos, na ordem em que foram digitados, e que exiba o resultado da média ponderada dos três valores considerando os pesos digitados.
+
+9) Escreva um programa que leia um valor inteiro e exiba o resto da divisão entre esse número e os valores 2, 3 e 4.
+
+10) Escreva um programa que, dados os coeficientes a, b e c de uma função de segundo grau (valores reais), calcule e exiba suas duas raízes reais (considere, para este exercício, que as funções dadas sempre têm duas raízes reais).
+
+11) Escreva um programa que, baseado em entradas de usuário, calcule e exiba seu IMC (IMC = PESO/(ALTURA^2)).
