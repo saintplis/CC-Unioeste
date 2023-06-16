@@ -1,0 +1,9 @@
+1 - Ler um número inteiro e imprimir se ele é par ou ímpar.
+2 - Ler um número e imprimir se ele é positivo, negativo ou nulo.
+3 - Leia dois valores, a e b, e uma operação básica (+, -, / ou *), e apresente o resultado de a <operacao> b.
+4 - Leia um número inteiro e escreva se ele é divisível por 6 ou não, utilizando apenas restos de divisão por dois e por três.
+5 - Leia três números e escreva-os em ordem crescente.
+6 - Ler a idade de uma pessoa e informar se é maior de idade, menor de idade ou idoso (com 60 anos ou mais).
+7 - Ler um número inteiro entre 1 e 12 e escrever o mês correspondente. Caso o usuário digite um número fora deste intervalo, deve aparecer uma mensagem que não existe mês com esse número.
+8 - Leia os coeficientes a, b e c de uma função de segundo grau. Em seguida, diga se ela tem duas raízes reais iguais, duas raízes reais diferentes ou nenhuma raiz real.
+9 - Leia uma valor representando um volume de um fluido em cm³, seguido do valor do raio de uma esfera em centímetros. Verifique se a esfera comporta essa quantidade de fluido.
